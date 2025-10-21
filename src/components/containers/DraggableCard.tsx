@@ -1,7 +1,7 @@
 import { useSortable } from "@dnd-kit/sortable";
 import { CSS } from "@dnd-kit/utilities";
+import type { IPlayer } from "@/lib/types";
 import { cn } from "@/lib/utils";
-import type { IPlayer } from "@/utils/types";
 import { PlayerCard } from "./PlayerCard";
 
 type Props = {

@@ -20,8 +20,8 @@ import { AddPlayerModal } from "./components/containers/AddPlayerModal";
 import { Column } from "./components/containers/Column";
 import { PlayerCard } from "./components/containers/PlayerCard";
 import { ReserveArea } from "./components/containers/ReserveArea";
-import { initialPlayers } from "./utils/mock";
-import type { IPlayer, IPositionArea, IPositions } from "./utils/types";
+import { initialPlayers } from "./lib/mock";
+import type { IPlayer, IPositionArea, IPositions } from "./lib/types";
 
 const columns: IPositionArea[] = [
   {

@@ -11,6 +11,22 @@ Este é um projeto de quadro Kanban para gerenciamento de um time de futebol, pe
 - Arrastar e soltar (drag-and-drop) os jogadores.
 - Remover jogadores da reserva.
 
+## Estrutura do projeto
+
+Visão geral das pastas e arquivos principais:
+
+```
+├── src/
+│   ├── components/
+│   │   ├── common/       # Componentes básicos
+│   │   ├── containers/   # Componentes complexos
+│   │   └── ui/           # Componentes de UI (Shadcn)
+│   ├── lib/              # Configurações e códigos úteis
+│   ├── App.tsx           # Componente principal
+│   ├── globals.css       # Estilos globais
+└── └── main.tsx          # Ponto de entrada da aplicação
+```
+
 ## Desenvolvimento
 
 Siga as instruções abaixo para instalar e rodar o projeto localmente.

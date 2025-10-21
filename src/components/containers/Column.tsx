@@ -3,7 +3,7 @@ import {
   useSortable,
   verticalListSortingStrategy,
 } from "@dnd-kit/sortable";
-import type { IPlayer } from "@/utils/types";
+import type { IPlayer } from "@/lib/types";
 import { DraggableCard } from "./DraggableCard";
 
 type Props = {

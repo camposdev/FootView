@@ -1,6 +1,6 @@
 import { Shirt, Trash2 } from "lucide-react";
+import type { IPlayer } from "@/lib/types";
 import { cn } from "@/lib/utils";
-import type { IPlayer } from "@/utils/types";
 
 type Props = {
   player: IPlayer;

@@ -3,8 +3,8 @@ import {
 	SortableContext,
 	useSortable,
 } from "@dnd-kit/sortable";
+import type { IPlayer } from "@/lib/types";
 import { cn } from "@/lib/utils";
-import type { IPlayer } from "@/utils/types";
 import { DraggableCard } from "./DraggableCard";
 
 type Props = {
