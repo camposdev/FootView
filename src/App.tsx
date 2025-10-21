@@ -224,7 +224,7 @@ function App() {
               </div>
 
               <div className="w-full max-w-6xl mx-auto aspect-[16/9] bg-radial from-green-600 from-40% to-green-800 rounded-2xl px-10 relative border-8 border-white overflow-hidden shadow-2xl z-0">
-                <div className="grid grid-cols-5 gap-22 items-stretch h-full">
+                <div className="grid grid-cols-5 gap-20 xl:gap-15 items-stretch h-full">
                   {columns
                     .filter((col) => col.id !== "RESERVE")
                     .map((column) => (
