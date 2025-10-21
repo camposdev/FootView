@@ -2,6 +2,8 @@
 
 Este é um projeto de quadro Kanban para gerenciamento de um time de futebol, permitindo a organização de jogadores titulares e reservas.
 
+[Demonstração](https://foot-view.vercel.app)
+
 ## Funcionalidades
 
 - Adicionar novos jogadores ao time.
@@ -15,7 +17,7 @@ Siga as instruções abaixo para instalar e rodar o projeto localmente.
 
 ### Pré-requisitos
 
-- [Bun](https://bun.sh/)
+- [Bun](https://bun.sh)
 
 ### Instalação
 
