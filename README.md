@@ -1,4 +1,4 @@
-# Zuri Frontend Test
+# FootView - React + dnd kit
 
 Este é um projeto de quadro Kanban para gerenciamento de um time de futebol, permitindo a organização de jogadores titulares e reservas.
 
